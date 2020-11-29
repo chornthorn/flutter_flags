@@ -40,7 +40,8 @@ class Flag extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     String countryName = country.toLowerCase();
-    String assetName = 'packages/flag/assets/flags/' + countryName + '.svg';
+    String assetName =
+        'packages/flutter_flags/assets/flags/svg/' + countryName + '.svg';
     return PlatformSvg(
       assetName,
       width: width,
