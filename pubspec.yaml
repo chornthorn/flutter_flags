@@ -1,7 +1,7 @@
 name: flutter_flags
 description: A flag Flutter package. Use for showing flags. All flags came from https://www.un.org/en/member-states/index.html .
 version: 0.0.1
-author: chorn thorn
+author: "chorn thorn"
 homepage: https://github.com/chornthorn/flutter_flags
 
 environment:
